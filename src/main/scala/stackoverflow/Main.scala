@@ -3,6 +3,8 @@ package stackoverflow
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 import org.apache.spark.SparkConf
+// go to the project directory spark/ and run the following from command line
+// $SPARK_HOME/bin/spark-submit --class stackoverflow.Main --master local[4] target/scala-2.10/stackoverflow_2.10-1.0.jar 
 
 object Main extends App {
    val minSplits = 4 
