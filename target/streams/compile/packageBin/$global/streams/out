@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /home/vagrant/miniprojects/spark/spark/target/scala-2.10/stackoverflow_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/User$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User$.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/User.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Post.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/StackTable.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/StackTable.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Post$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post$.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Vote$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote$.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Vote.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	stackoverflow/Main$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$3.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

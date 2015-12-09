@@ -1,0 +1,425 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$1.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$2.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$3.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$4.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$5.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$6.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$delayedInit$body.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post$.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/StackTable.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User$.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote$.class
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote.class
+binary dependencies:
+11 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> /home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> /usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+3 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> /home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$1
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$2
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$3
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$4
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$5
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$$anonfun$6
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow.Main$delayedInit$body
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> stackoverflow.Post
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> stackoverflow.Post$
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> stackoverflow.StackTable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> stackoverflow.User
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> stackoverflow.User$
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> stackoverflow.Vote
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> stackoverflow.Vote$
+used names:
+266 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> +
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> <init>
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> ==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> App
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> ClassTag
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Int
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Main
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Option
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Ordering
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Predef
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> SparkConf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> SparkContext
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> System
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> Vote
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> _1
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> _2
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> _3
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> allPosts
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> allUsers
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> allVoters
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> apache
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> apply
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> conf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> flatMap
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> foreach
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> java
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> lang
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> map
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> materializeClassTag
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> math
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> minSplits
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> option2Iterable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> org
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> package
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> parse
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> postId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> println
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> qual$1
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> rddToOrderedRDDFunctions
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> rddToPairRDDFunctions
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> reduceByKey
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> refArrayOps
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> sc
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> setAppName
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> setProperty
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> sortByKey
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> spark
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> stackoverflow
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> take
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> textFile
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> top50
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> vote
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> voteTypeId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> x
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> x$1
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> x$2
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> y
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> &&
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> <init>
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> ==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Array
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> BufferedSource
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> ClassTag
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Elem
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> File
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Int
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Long
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> MetaData
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> NodeSeq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> None
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Post
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Predef
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Product
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> ScalaRunTime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Serializable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Source
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> StackTable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> Statics
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> String
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> \
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> _toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> acceptedAnswerId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> answerCount
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> anyHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> apply
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> asInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> augmentString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> body
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> commentCount
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> communityOwnedDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> creationDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> drop
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> dropRight
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> eq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> favoriteCount
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> finalizeHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> getDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> getInt
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> getTags
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> id
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> io
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> isInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> java
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> lastActivityDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> longHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> materializeClassTag
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> mix
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> ownerUserId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> package
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> postTypeId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> runtime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> score
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> split
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> stackoverflow
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> tags
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> text
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> title
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> typedProductIterator
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> viewCount
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> x
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> xml
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> ||
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> <init>
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> ==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Any
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> AnyRef
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> BufferedSource
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Elem
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> File
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Int
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Long
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> MetaData
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> NodeSeq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> None
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Nothing
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Option
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Predef
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> SimpleDateFormat
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> Source
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> StackTable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> String
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> T
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> TimeZone
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> XML
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> _root_
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> augmentString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> dateFormat
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> f
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> getTime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> getTimeZone
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> io
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> java
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> loadString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> n
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> parse
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> parseXml
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> s
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> setTimeZone
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> stackoverflow
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> startsWith
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> text
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> toInt
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> util
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> xml
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> &&
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> <init>
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> ==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> BufferedSource
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Elem
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> File
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Int
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Long
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> MetaData
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> NodeSeq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> None
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Predef
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Product
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> ScalaRunTime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Serializable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Source
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> StackTable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> Statics
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> String
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> User
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> \
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> _toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> aboutMe
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> age
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> anyHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> asInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> creationDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> displayName
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> downVotes
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> emailHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> eq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> finalizeHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> getDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> getInt
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> id
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> io
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> isInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> java
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> lastAccessDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> location
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> longHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> mix
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> reputation
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> runtime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> stackoverflow
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> text
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> typedProductIterator
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> upVotes
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> views
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> websiteUrl
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> x
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> xml
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> ||
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> &&
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> <init>
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> ==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> BufferedSource
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Elem
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> File
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Int
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Long
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> MetaData
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> NodeSeq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> None
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Product
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> ScalaRunTime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Serializable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Source
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> StackTable
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Statics
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> Vote
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> \
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> _toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> asInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> creationDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> eq
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> finalizeHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> getDate
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> getInt
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> id
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> io
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> isInstanceOf
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> java
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> longHash
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> mix
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> postId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> runtime
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> scala
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> stackoverflow
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> toString
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> typedProductIterator
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> userId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> voteTypeId
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> x
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> xml
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> ||
+product stamps:
+16 items
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$1.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$2.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$3.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$4.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$5.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$$anonfun$6.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main$delayedInit$body.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Main.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post$.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Post.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/StackTable.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User$.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/User.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote$.class -> lastModified(1449259676000)
+/home/vagrant/miniprojects/spark/spark/target/scala-2.10/classes/stackoverflow/Vote.class -> lastModified(1449259676000)
+source stamps:
+5 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> hash(e28d6ab097ce1a2c1d2dbcb129d1b3f9eb00a280)
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> hash(19400cebe04bfd3400faac2e9138db9f1dcc3460)
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> hash(9241d335e1e4f704c497e0ae509253f4e16593b6)
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> hash(b61501fd4952e55b020f846d37506d2afc52f3b2)
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> hash(a0688313540ddf8116ada0766fc07bfb7afac60f)
+binary stamps:
+3 items
+/home/vagrant/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> lastModified(1418205503000)
+/home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar -> lastModified(1444177579000)
+class names:
+3 items
+/home/vagrant/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> org.apache.spark.SparkContext
+/home/vagrant/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Product
+/usr/lib/jvm/jdk1.8.0_65/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCeL7ZUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOsE6op0AAV0b3A1MHNxAH4ADPYLAWF0AAZub3RpZnlzcQB+AAw4C12AdAAEd2FpdHNxAH4ADCBz4BR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLjYfvnQABmVxdWFsc3NxAH4ADPqwPu50AAltaW5TcGxpdHNzcQB+AAz3sLJadAAMYXNJbnN0YW5jZU9mc3EAfgAMwUTByHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMuM+DQHQADHN5bmNocm9uaXplZHNxAH4ADJjZiJp0AAJzY3NxAH4ADF2jE0B0AA0kaXNJbnN0YW5jZU9mc3EAfgAMprXF9nQABV9hcmdzc3EAfgAMj7JZmHQACGFsbFVzZXJzc3EAfgAMFx37pHQABG1haW5zcQB+AAzE3wTedAAIaW5pdENvZGVzcQB+AAwpSZQidAAJbm90aWZ5QWxsc3EAfgAMNxQQ4nQABGNvbmZzcQB+AAyPuTWVdAAMaXNJbnN0YW5jZU9mc3EAfgAMjkYwSXQACGFsbFBvc3Rzc3EAfgAMO2Ur1HQAAj09c3EAfgAMhKiaSnQABWNsb25lc3EAfgAMgyVnNHQABE1haW5zcQB+AAyujvnidAAIdG9TdHJpbmdzcQB+AAz2xLcNdAAEYXJnc3NxAH4ADMIvFKB0AAIhPXNxAH4ADJ7vAw50AAlhbGxWb3RlcnNzcQB+AAzsGGcDdAAIZ2V0Q2xhc3NzcQB+AAwaUERTdAACbmVzcQB+AAwZuaVodAACZXFzcQB+AAzwZEZ4dAALZGVsYXllZEluaXRzcQB+AAxCnHSMdAACIyNzcQB+AAzmUpRqdAAIZmluYWxpemVzcQB+AAwhXNfddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASc3RhY2tvdmVyZmxvdy5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Acnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcQBwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AenNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAHNxAH4AcQBwc3EAfgB2dXEAfgBUAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBacQB+AGN1cQB+AGQAAAAAc3EAfgBmAHEAfgApdXEAfgBpAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHl0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB5c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCadXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ah3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AbHQABVBsYWlucQB+AD1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AI5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHlzcQB+AI10AAVBcnJheXEAfgCTdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AI10AAZTdHJpbmdzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZdAAEamF2YXNxAH4AmXQABGxhbmdxAH4AnnNxAH4AcQBwc3EAfgB2dXEAfgCxAAAABHNxAH4AjXQAA0FwcHEAfgCTc3EAfgCNdAALRGVsYXllZEluaXRxAH4Ak3NxAH4AjXQABk9iamVjdHEAfgC1c3EAfgCNdAADQW55cQB+AJN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1zdGFja292ZXJmbG93c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRbpuiW3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS92YWdyYW50L21pbmlwcm9qZWN0cy9zcGFyay9zcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4o1qsJfOGiwdLbyxKdGz+esAooA=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHABPirQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLv1HaJ0AAZub3RpZnlzcQB+AAwyxDjndAAHdW5hcHBseXNxAH4ADEFDb6R0AAdnZXRUYWdzc3EAfgAMBArTJnQABGJvZHlzcQB+AAxmRYV0dAAEd2FpdHNxAH4ADEh0xvt0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADMJdo1Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMVjIOeXQACXZpZXdDb3VudHNxAH4ADLsJ7zt0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADEkzQLd0AAxwcm9kdWN0QXJpdHlzcQB+AAyE+wQ+dAAGZXF1YWxzc3EAfgAMNI5PL3QACHBhcnNlWG1sc3EAfgAML+559HQADmNvcHkkZGVmYXVsdCQ5c3EAfgAMR7nhgHQAD2NvcHkkZGVmYXVsdCQxMnNxAH4ADLAE6pF0AAR0YWdzc3EAfgAMyP5VBXQADGFzSW5zdGFuY2VPZnNxAH4ADCCnjgF0AAthbnN3ZXJDb3VudHNxAH4ADLcOEGd0AAxzeW5jaHJvbml6ZWRzcQB+AAyLc2dMdAAFc2NvcmVzcQB+AAzbyBcrdAANJGlzSW5zdGFuY2VPZnNxAH4ADJGfD6d0ABBhY2NlcHRlZEFuc3dlcklkc3EAfgAMxxp6VXQAD2NvcHkkZGVmYXVsdCQxNXNxAH4ADNqviRB0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADFsk/eh0AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAy0N5M2dAAIY2FuRXF1YWxzcQB+AAzxJziTdAAHZ2V0RGF0ZXNxAH4ADO7Fm7B0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADGlGpbd0AA1wcm9kdWN0UHJlZml4c3EAfgAMPWLFTHQACW5vdGlmeUFsbHNxAH4ADN+wjY90AAtyZWFkUmVzb2x2ZXNxAH4ADCv5PcZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwSFnR2dAAMY29tbWVudENvdW50c3EAfgAMeRlO8HQABjxpbml0PnNxAH4ADDfXzSd0AAJpZHNxAH4ADAaeX5N0ABBsYXN0QWN0aXZpdHlEYXRlc3EAfgAMLpW8g3QABWFwcGx5c3EAfgAM3vQLTHQAEmNvbW11bml0eU93bmVkRGF0ZXNxAH4ADDd/EO90AAVwYXJzZXNxAH4ADHDUurV0AAI9PXNxAH4ADMcTM3V0AA9jb3B5JGRlZmF1bHQkMTRzcQB+AAzLk6PUdAAEUG9zdHNxAH4ADF00XZ90AAVjbG9uZXNxAH4ADKlxkah0AAtvd25lclVzZXJJZHNxAH4ADMY/S5N0AApwb3N0VHlwZUlkc3EAfgAM5kcAZnQABmdldEludHNxAH4ADPPM71R0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADDfpW0F0AA9jb3B5JGRlZmF1bHQkMTBzcQB+AAzwPp0VdAAMY3JlYXRpb25EYXRlc3EAfgAMnj77EHQACmRhdGVGb3JtYXRzcQB+AAynY9JxdAAOY29weSRkZWZhdWx0JDNzcQB+AAwlhRQ7dAAEY29weXNxAH4ADC3ClF90AAh0b1N0cmluZ3NxAH4ADD0oubF0AAIhPXNxAH4ADJKGsSB0AAhnZXRDbGFzc3NxAH4ADKmcjFp0AAV0aXRsZXNxAH4ADG1w8Y10AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOCEKTt0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADAxTrHN0AAJuZXNxAH4ADLzCy3F0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAzaDkr/dAANZmF2b3JpdGVDb3VudHNxAH4ADFq3QdB0AAJlcXNxAH4ADD7PNx90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyFd+O+dAACIyNzcQB+AAxw1IU7dAAIZmluYWxpemVzcQB+AAze0IQmdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxMHHZSdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASc3RhY2tvdmVyZmxvdy5Qb3N0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AtHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AswBwc3EAfgC4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJtMAAlpbmhlcml0ZWRxAH4Am0wAB3BhcmVudHNxAH4Am3hxAH4AvHNxAH4AswBwc3EAfgC4dXEAfgCWAAAAAHNxAH4AswBwc3EAfgC4dXEAfgCWAAAAAHNxAH4AswBwc3EAfgC4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC7dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZc3EAfgDMcQB+AM9zcQB+ANBzcQB+ANN1cQB+ANYAAAADc3EAfgDYdAAEamF2YXNxAH4A2HQAAmlvcQB+AN1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AM1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALtzcQB+AMx0AApTdGFja1RhYmxlc3EAfgDQc3EAfgDTdXEAfgDWAAAAAnNxAH4A2HQADXN0YWNrb3ZlcmZsb3dxAH4A3XVxAH4AygAAAAFzcQB+AMx0AARQb3N0cQB+AOtzcQB+AMx0AAZPYmplY3RzcQB+ANBzcQB+ANN1cQB+ANYAAAADc3EAfgDYcQB+AONzcQB+ANh0AARsYW5ncQB+AN1zcQB+AMx0AANBbnlxAH4A0nNxAH4AmHEAfgCldXEAfgCmAAAAAHNxAH4AqAB0ABJzdGFja292ZXJmbG93LlBvc3R1cQB+AKsAAAAAfnEAfgCtdAAIQ2xhc3NEZWZ1cQB+ALEAAAAAc3EAfgCzAHBzcQB+ALhxAH4AvXNxAH4AswBwc3EAfgC4c3EAfgDAc3EAfgCzAHBzcQB+ALh1cQB+AJYAAAAAc3EAfgCzAHBzcQB+ALh1cQB+AJYAAAAAc3EAfgCzAHBzcQB+ALh1cQB+AMoAAAAGc3EAfgDMcQB+AM9zcQB+ANBzcQB+ANN1cQB+ANYAAAACc3EAfgDYcQB+ANtxAH4A3XNxAH4AzHEAfgDPc3EAfgDQc3EAfgDTdXEAfgDWAAAAA3NxAH4A2HEAfgDjc3EAfgDYdAACaW9xAH4A3XNxAH4AzHQAB1Byb2R1Y3RxAH4BFHNxAH4AzHQABkVxdWFsc3EAfgEUc3EAfgDMcQB+APRzcQB+ANBzcQB+ANN1cQB+ANYAAAADc3EAfgDYcQB+AONzcQB+ANhxAH4A+nEAfgDdc3EAfgDMcQB+APxxAH4BFHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXN0YWNrb3ZlcmZsb3dzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVFum6JbdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL3ZhZ3JhbnQvbWluaXByb2plY3RzL3NwYXJrL3NwYXJrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQZQAzr4Ev9NAD6rC6RONufHcw0YA==
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAygUX2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE/nRHl0AAZub3RpZnlzcQB+AAxXmhQ3dAAEd2FpdHNxAH4ADArITuh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMoMgCDHQABmVxdWFsc3NxAH4ADINz9f90AAhwYXJzZVhtbHNxAH4ADFyA2010AAxhc0luc3RhbmNlT2ZzcQB+AAwW/74rdAAMc3luY2hyb25pemVkc3EAfgAMX3lJQ3QADSRpc0luc3RhbmNlT2ZzcQB+AAz8/bkadAAHZ2V0RGF0ZXNxAH4ADO6Onup0AAlub3RpZnlBbGxzcQB+AAzIMm1GdAAMaXNJbnN0YW5jZU9mc3EAfgAMwoDE0HQABjxpbml0PnNxAH4ADO1fVbl0AAVwYXJzZXNxAH4ADPnCePx0AAI9PXNxAH4ADMMVA890AAVjbG9uZXNxAH4ADN+3hH10AAZnZXRJbnRzcQB+AAxOpl2TdAAKZGF0ZUZvcm1hdHNxAH4ADKOIT1J0AAh0b1N0cmluZ3NxAH4ADC/7lwd0AAIhPXNxAH4ADNK0l9p0AAhnZXRDbGFzc3NxAH4ADFFAEH10AApTdGFja1RhYmxlc3EAfgAMjINyUnQAAm5lc3EAfgAMoLWb9HQAAmVxc3EAfgAMXYJGAHQAAiMjc3EAfgAMf9wWsHQACGZpbmFsaXplc3EAfgAMWj4A2HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAGHN0YWNrb3ZlcmZsb3cuU3RhY2tUYWJsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBQTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4ATUwACnVwcGVyQm91bmRxAH4AXkwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AVgAAAAB0ABpzdGFja292ZXJmbG93LlN0YWNrVGFibGUuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBydXEAfgBbAAAAAHNxAH4AY3QAA0FueXEAfgBrfnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4Ae3QACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AhHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AZXNxAH4AgwBwc3EAfgCIc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AZnNxAH4AgwBwc3EAfgCIdXEAfgBGAAAAAHNxAH4AgwBwc3EAfgCIdXEAfgBGAAAAAHNxAH4AgwBwc3EAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AGN0AAZPYmplY3RzcQB+AGlzcQB+AGx1cQB+AG8AAAADc3EAfgBxdAAEamF2YXNxAH4AcXQABGxhbmdxAH4AdnNxAH4AY3EAfgB5c3EAfgBpc3EAfgBsdXEAfgBvAAAAAnNxAH4AcXEAfgB0cQB+AHZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1zdGFja292ZXJmbG93c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRbpuiW3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS92YWdyYW50L21pbmlwcm9qZWN0cy9zcGFyay9zcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUkkHTNeHk9wTEl+CuUJJT9OFlk7Y=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCG5NjSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLI2M550AAtkaXNwbGF5TmFtZXNxAH4ADBPQX3t0AAZub3RpZnlzcQB+AAxzLj5sdAAHdW5hcHBseXNxAH4ADPiFDZx0AAR3YWl0c3EAfgAMwM0he3QACnJlcHV0YXRpb25zcQB+AAwvDo8sdAAOY29weSRkZWZhdWx0JDJzcQB+AAyjwX9RdAANJGFzSW5zdGFuY2VPZnNxAH4ADDA/7fF0AAhsb2NhdGlvbnNxAH4ADANUY1R0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADN01RYl0AAxwcm9kdWN0QXJpdHlzcQB+AAyZpXhpdAAGZXF1YWxzc3EAfgAMjhxbknQAB2Fib3V0TWVzcQB+AAwGufiRdAAIcGFyc2VYbWxzcQB+AAwBrW5VdAAOY29weSRkZWZhdWx0JDlzcQB+AAyH3TFxdAAPY29weSRkZWZhdWx0JDEyc3EAfgAMkbtDanQADGFzSW5zdGFuY2VPZnNxAH4ADClJH6Z0AAxzeW5jaHJvbml6ZWRzcQB+AAzPI34WdAANJGlzSW5zdGFuY2VPZnNxAH4ADMCbhIZ0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADORuEYB0AAllbWFpbEhhc2hzcQB+AAwEQkDOdAAPY29weSRkZWZhdWx0JDEzc3EAfgAMIcV53XQACGNhbkVxdWFsc3EAfgAMMhFhNnQAB2dldERhdGVzcQB+AAwgNVHldAAOY29weSRkZWZhdWx0JDRzcQB+AAybuLlmdAANcHJvZHVjdFByZWZpeHNxAH4ADER/ipB0AANhZ2VzcQB+AAxu6VTbdAAJbm90aWZ5QWxsc3EAfgAMoWE2uHQAC3JlYWRSZXNvbHZlc3EAfgAMoLWQt3QADGlzSW5zdGFuY2VPZnNxAH4ADDPpFPx0AAY8aW5pdD5zcQB+AAxUqeWQdAACaWRzcQB+AAyyVmRmdAAFYXBwbHlzcQB+AAyp/rtjdAAFcGFyc2VzcQB+AAwsFL3IdAACPT1zcQB+AAxBUqV0dAAFY2xvbmVzcQB+AAwZKoz9dAAGZ2V0SW50c3EAfgAMH0y4kHQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMEalddnQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADI63YAV0AAV2aWV3c3NxAH4ADJdyH5N0AA5sYXN0QWNjZXNzRGF0ZXNxAH4ADK3RRx10AAxjcmVhdGlvbkRhdGVzcQB+AAxAlnBsdAAEVXNlcnNxAH4ADP7V7+10AApkYXRlRm9ybWF0c3EAfgAMGngddnQACndlYnNpdGVVcmxzcQB+AAxPjkFRdAAOY29weSRkZWZhdWx0JDNzcQB+AAxpzB90dAAEY29weXNxAH4ADHeH3Up0AAd1cFZvdGVzc3EAfgAMv903D3QACHRvU3RyaW5nc3EAfgAMKt+iHnQAAiE9c3EAfgAMpeHhHHQACGdldENsYXNzc3EAfgAMdVwxRnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMjR0z1HQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMlVZL63QAAm5lc3EAfgAMofj6enQAD2NvcHkkZGVmYXVsdCQxMXNxAH4ADA45MDd0AAJlcXNxAH4ADGs6SOF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwt9BIZdAACIyNzcQB+AAwhP5S3dAAIZmluYWxpemVzcQB+AAwg7REGdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAx6avFjdAAIaGFzaENvZGVzcQB+AAxz/jKldAAJZG93blZvdGVzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AkXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEnN0YWNrb3ZlcmZsb3cuVXNlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AKp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKkAcHNxAH4ArnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCRTAAJaW5oZXJpdGVkcQB+AJFMAAdwYXJlbnRzcQB+AJF4cQB+ALJzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVxAH4AjAAAAABzcQB+AKkAcHNxAH4ArnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAFc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AsXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Az3NxAH4AwnEAfgDFc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznQABGphdmFzcQB+AM50AAJpb3EAfgDTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDDWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCxc3EAfgDCdAAKU3RhY2tUYWJsZXNxAH4AxnNxAH4AyXVxAH4AzAAAAAJzcQB+AM50AA1zdGFja292ZXJmbG93cQB+ANN1cQB+AMAAAAABc3EAfgDCdAAEVXNlcnEAfgDhc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDZc3EAfgDOdAAEbGFuZ3EAfgDTc3EAfgDCdAADQW55cQB+AMhzcQB+AI5xAH4Am3VxAH4AnAAAAABzcQB+AJ4AdAASc3RhY2tvdmVyZmxvdy5Vc2VydXEAfgChAAAAAH5xAH4Ao3QACENsYXNzRGVmdXEAfgCnAAAAAHNxAH4AqQBwc3EAfgCucQB+ALNzcQB+AKkAcHNxAH4ArnNxAH4AtnNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgDAAAAABnNxAH4AwnEAfgDFc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDRcQB+ANNzcQB+AMJxAH4AxXNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM5xAH4A2XNxAH4AznQAAmlvcQB+ANNzcQB+AMJ0AAdQcm9kdWN0cQB+AQpzcQB+AMJ0AAZFcXVhbHNxAH4BCnNxAH4AwnEAfgDqc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDZc3EAfgDOcQB+APBxAH4A03NxAH4AwnEAfgDycQB+AQp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1zdGFja292ZXJmbG93c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRbpuiW3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS92YWdyYW50L21pbmlwcm9qZWN0cy9zcGFyay9zcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUthUB/UlS5VsCD4RtN1BtKvxS87I=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBaggHCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGV/14t0AAZub3RpZnlzcQB+AAzhuNt9dAAHdW5hcHBseXNxAH4ADFt0o5p0AAR3YWl0c3EAfgAMNTEMWXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMQOt9R3QADSRhc0luc3RhbmNlT2ZzcQB+AAxjWgjPdAAOY29weSRkZWZhdWx0JDVzcQB+AAwl23mKdAAMcHJvZHVjdEFyaXR5c3EAfgAMFIVX43QABmVxdWFsc3NxAH4ADLa+1MJ0AAhwYXJzZVhtbHNxAH4ADLtFwtp0AAxhc0luc3RhbmNlT2ZzcQB+AAzFlqzHdAAMc3luY2hyb25pemVkc3EAfgAMzNAQK3QADSRpc0luc3RhbmNlT2ZzcQB+AAxgunS0dAAIY2FuRXF1YWxzcQB+AAyhc5medAAHZ2V0RGF0ZXNxAH4ADEXur1d0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADHaT3zN0AA1wcm9kdWN0UHJlZml4c3EAfgAMghs3Q3QACW5vdGlmeUFsbHNxAH4ADOChAjN0AAtyZWFkUmVzb2x2ZXNxAH4ADKEv5LF0AAxpc0luc3RhbmNlT2ZzcQB+AAwUewvudAAGPGluaXQ+c3EAfgAMI98exnQAAmlkc3EAfgAM3srWHnQABWFwcGx5c3EAfgAM5l6UzHQACnZvdGVUeXBlSWRzcQB+AAxgv0KcdAAFcGFyc2VzcQB+AAyEll56dAACPT1zcQB+AAwL/84ddAAGcG9zdElkc3EAfgAMLQt9QnQABFZvdGVzcQB+AAwUbaAKdAAFY2xvbmVzcQB+AAyc+b/7dAAGZ2V0SW50c3EAfgAMwehy4XQADGNyZWF0aW9uRGF0ZXNxAH4ADFixRZt0AApkYXRlRm9ybWF0c3EAfgAM7gbDMnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMschWbHQABGNvcHlzcQB+AAyW1S3CdAAIdG9TdHJpbmdzcQB+AAwNOx3kdAACIT1zcQB+AAyOTLCcdAAIZ2V0Q2xhc3NzcQB+AAwYQOCQdAAGdXNlcklkc3EAfgAMclY7AXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMJ8XjKXQAAm5lc3EAfgAMGPZ+j3QAAmVxc3EAfgAMf7wRH3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADDe7yr90AAIjI3NxAH4ADOE6x8h0AAhmaW5hbGl6ZXNxAH4ADJPfze90AA5wcm9kdWN0RWxlbWVudHNxAH4ADNlDoXp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJzdGFja292ZXJmbG93LlZvdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCKeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCJAHBzcQB+AI5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AcUwACWluaGVyaXRlZHEAfgBxTAAHcGFyZW50c3EAfgBxeHEAfgCSc3EAfgCJAHBzcQB+AI51cQB+AGwAAAAAc3EAfgCJAHBzcQB+AI51cQB+AGwAAAAAc3EAfgCJAHBzcQB+AI51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJF0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AK9zcQB+AKJxAH4ApXNxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK50AARqYXZhc3EAfgCudAACaW9xAH4As3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ao1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AkXNxAH4AonQAClN0YWNrVGFibGVzcQB+AKZzcQB+AKl1cQB+AKwAAAACc3EAfgCudAANc3RhY2tvdmVyZmxvd3EAfgCzdXEAfgCgAAAAAXNxAH4AonQABFZvdGVxAH4AwXNxAH4AonQABk9iamVjdHNxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK5xAH4AuXNxAH4ArnQABGxhbmdxAH4As3NxAH4AonQAA0FueXEAfgCoc3EAfgBucQB+AHt1cQB+AHwAAAAAc3EAfgB+AHQAEnN0YWNrb3ZlcmZsb3cuVm90ZXVxAH4AgQAAAAB+cQB+AIN0AAhDbGFzc0RlZnVxAH4AhwAAAABzcQB+AIkAcHNxAH4AjnEAfgCTc3EAfgCJAHBzcQB+AI5zcQB+AJZzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AbAAAAABzcQB+AIkAcHNxAH4AjnVxAH4AoAAAAAZzcQB+AKJxAH4ApXNxAH4ApnNxAH4AqXVxAH4ArAAAAAJzcQB+AK5xAH4AsXEAfgCzc3EAfgCicQB+AKVzcQB+AKZzcQB+AKl1cQB+AKwAAAADc3EAfgCucQB+ALlzcQB+AK50AAJpb3EAfgCzc3EAfgCidAAHUHJvZHVjdHEAfgDqc3EAfgCidAAGRXF1YWxzcQB+AOpzcQB+AKJxAH4AynNxAH4ApnNxAH4AqXVxAH4ArAAAAANzcQB+AK5xAH4AuXNxAH4ArnEAfgDQcQB+ALNzcQB+AKJxAH4A0nEAfgDqdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANc3RhY2tvdmVyZmxvd3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUW6bolt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL2hvbWUvdmFncmFudC9taW5pcHJvamVjdHMvc3Bhcmsvc3BhcmsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKBogxNUDd+BFq2gdm/Ae/t6+sYP
+external apis:
+0 items
+source infos:
+5 items
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Main.scala -> 
+AAAAAAAAAAA=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Post.scala -> 
+AAAAAAAAAAA=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/StackTable.scala -> 
+AAAAAQAAAQAAACQAPCAgICAgICAgY2FzZSBfID0+IE5vbmUgLy8gbWF0Y2hlcyBhbnkgZXJyb3IsIGFuZCByZXR1cm4gTm9uZQEAAANLAQAAAA0BAA0gICAgICAgICAgICAgAQBUL2hvbWUvdmFncmFudC9taW5pcHJvamVjdHMvc3Bhcmsvc3Bhcmsvc3JjL21haW4vc2NhbGEvc3RhY2tvdmVyZmxvdy9TdGFja1RhYmxlLnNjYWxhAQBUL2hvbWUvdmFncmFudC9taW5pcHJvamVjdHMvc3Bhcmsvc3Bhcmsvc3JjL21haW4vc2NhbGEvc3RhY2tvdmVyZmxvdy9TdGFja1RhYmxlLnNjYWxhAGhUaGlzIGNhdGNoZXMgYWxsIFRocm93YWJsZXMuIElmIHRoaXMgaXMgcmVhbGx5IGludGVuZGVkLCB1c2UgYGNhc2UgXyA6IFRocm93YWJsZWAgdG8gY2xlYXIgdGhpcyB3YXJuaW5nLgEAAAAA
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/User.scala -> 
+AAAAAAAAAAA=
+/home/vagrant/miniprojects/spark/spark/src/main/scala/stackoverflow/Vote.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUW6bolt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3ZhZ3JhbnQvbWluaXByb2plY3RzL3NwYXJrL3NwYXJrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
